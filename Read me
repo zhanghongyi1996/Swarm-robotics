@@ -1,0 +1,5 @@
+# The bio_model_simulation file is used to generate the animation of our simulation and save as gif. Simply Run animation.py or you can related parameters to get different scenarios.
+
+
+# The bio-inspired-ai file is used to record the time of finishing 95 percentage of the cleaning work. The main code is in clean_window.py and warehouse.py. Other documents are all 
+# responsible for generating the data and doing analysis. You can also write the related code after reading the code in animation.py.
